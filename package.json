@@ -1,0 +1,23 @@
+{
+  "name": "generator-gelco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "generator-mocha": "^2.0.4",
+    "gulp-beautify": "^3.0.0",
+    "yeoman-generator": "^5.4.2",
+    "yosay": "^2.0.2"
+  }
+}
